@@ -49,5 +49,5 @@ while True:
         caesar (start_text=text, shift_amount=shift, cipher_direction=direction)
     else:
         print("Invalid input, please choose 'yes' or 'no' ^^")
-
+        
 # End
